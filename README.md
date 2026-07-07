@@ -4,11 +4,11 @@
 
 <br/>
 
-<a href="https://x.com/petrnzi"><img src="./assets/social-x.svg" alt="X / Twitter" height="48"/></a>
+<a href="https://x.com/petrnzi"><img src="./social-x.svg" alt="X / Twitter" height="48"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/pietro-renzi"><img src="./assets/social-linkedin.svg" alt="LinkedIn" height="48"/></a>
+<a href="https://www.linkedin.com/in/pietro-renzi"><img src="./social-linkedin.svg" alt="LinkedIn" height="48"/></a>
 &nbsp;
-<a href="mailto:therealwrldofnova@gmail.com"><img src="./assets/social-email.svg" alt="Email" height="48"/></a>
+<a href="mailto:therealwrldofnova@gmail.com"><img src="./social-email.svg" alt="Email" height="48"/></a>
 
 <br/><br/>
 
