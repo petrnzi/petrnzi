@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Pietro Renzi — I make things that move, look good & sometimes work." width="100%"/>
+<img src="./assets/header.svg" alt="Peter Renzi — I make things that move, look good & sometimes work." width="100%"/>
 
 <br/>
 
-<a href="https://x.com/wrldofnova"><img src="./assets/social-x.svg" alt="X / Twitter" height="48"/></a>
+<a href="https://x.com/petrnzi"><img src="./assets/social-x.svg" alt="X / Twitter" height="48"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/pietro-renzi"><img src="./assets/social-linkedin.svg" alt="LinkedIn" height="48"/></a>
 &nbsp;
@@ -14,21 +14,21 @@
 
 <!-- ─────────────── STATS ─────────────── -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&bg_color=0a0a0a&title_color=00ff88&text_color=c9d1d9&icon_color=00ff88&border_color=232323&border_radius=14&hide_title=false&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=petrnzi&show_icons=true&bg_color=0a0a0a&title_color=00ff88&text_color=c9d1d9&icon_color=00ff88&border_color=232323&border_radius=14&hide_title=false&count_private=true" height="165" alt="GitHub stats"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=GITHUB_USERNAME&background=0a0a0a&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6f6f6f&border=232323&border_radius=14" height="165" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=petrnzi&background=0a0a0a&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6f6f6f&border=232323&border_radius=14" height="165" alt="Streak"/>
 
 <br/><br/>
 
 <!-- ─────────────── ACTIVITY GRAPH ─────────────── -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&bg_color=0a0a0a&color=c9d1d9&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=false&border_color=232323&radius=14" width="97%" alt="Contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=petrnzi&bg_color=0a0a0a&color=c9d1d9&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=false&border_color=232323&radius=14" width="97%" alt="Contribution graph"/>
 
 <br/><br/>
 
 <!-- ─────────────── TECH STACK ─────────────── -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=donut&bg_color=0a0a0a&title_color=00ff88&text_color=c9d1d9&border_color=232323&border_radius=14" height="200" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrnzi&layout=donut&bg_color=0a0a0a&title_color=00ff88&text_color=c9d1d9&border_color=232323&border_radius=14" height="200" alt="Top languages"/>
 
 <br/><br/>
 
