@@ -1,39 +1,59 @@
-I make things that move, look good & sometimes work.
-Creative Technologist at the intersection of 3D, motion, frontend design and AI. Based in Italy, building worldwide.
+<div align="center">
 
----
+<img src="./assets/header.svg" alt="Pietro Renzi — I make things that move, look good & sometimes work." width="100%"/>
 
-### What I do
+<br/>
 
-I design and build everything a brand sees online — from identity and graphics to websites, 3D web experiences and motion. One person, full stack creative, AI across every step.
+<a href="https://x.com/wrldofnova"><img src="./assets/social-x.svg" alt="X / Twitter" height="48"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/pietro-renzi"><img src="./assets/social-linkedin.svg" alt="LinkedIn" height="48"/></a>
+&nbsp;
+<a href="mailto:therealwrldofnova@gmail.com"><img src="./assets/social-email.svg" alt="Email" height="48"/></a>
 
----
+<br/><br/>
 
-### Building
+<!-- ─────────────── STATS ─────────────── -->
 
-- **Syndycore** — [@syndycore](https://x.com/syndycore) *(in progress)*
-- **Krafto** — [@kraftohq](https://x.com/kraftohq) *(in progress)*
-- **Epylog** — epylog.app *(in progress)*
+<img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&bg_color=0a0a0a&title_color=00ff88&text_color=c9d1d9&icon_color=00ff88&border_color=232323&border_radius=14&hide_title=false&count_private=true" height="165" alt="GitHub stats"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=GITHUB_USERNAME&background=0a0a0a&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6f6f6f&border=232323&border_radius=14" height="165" alt="Streak"/>
 
----
+<br/><br/>
 
-### Toolkit
+<!-- ─────────────── ACTIVITY GRAPH ─────────────── -->
 
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&bg_color=0a0a0a&color=c9d1d9&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=false&border_color=232323&radius=14" width="97%" alt="Contribution graph"/>
 
-**AI workflows:** Claude · Claude Code · Cursor · ChatGPT · Higgsfield · Google AI
+<br/><br/>
 
----
+<!-- ─────────────── TECH STACK ─────────────── -->
 
-### Find me
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=donut&bg_color=0a0a0a&title_color=00ff88&text_color=c9d1d9&border_color=232323&border_radius=14" height="200" alt="Top languages"/>
 
-- 🌐 [tinyurl.com/wrldofnova](https://tinyurl.com/wrldofnova)
-- 💼 [linkedin.com/in/pietro-renzi](https://www.linkedin.com/in/pietro-renzi)
-- 🐦 [@wrldofnova](https://x.com/wrldofnova)
-- 📸 [@wrldofnova](https://instagram.com/wrldofnova)
-- 📨 therealwrldofnova@gmail.com
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Blender-0a0a0a?style=for-the-badge&logo=blender&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Three.js-0a0a0a?style=for-the-badge&logo=three.js&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/GSAP-0a0a0a?style=for-the-badge&logo=greensock&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/After_Effects-0a0a0a?style=for-the-badge&logo=adobeaftereffects&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Unreal_Engine-0a0a0a?style=for-the-badge&logo=unrealengine&logoColor=00ff88"/>
+
+<img src="https://img.shields.io/badge/Claude-0a0a0a?style=for-the-badge&logo=anthropic&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Claude_Code-0a0a0a?style=for-the-badge&logo=anthropic&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Cursor-0a0a0a?style=for-the-badge&logo=cursor&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/ChatGPT-0a0a0a?style=for-the-badge&logo=openai&logoColor=00ff88"/>
+
+<br/><br/>
+
+<!-- ─────────────── BUILDING ─────────────── -->
+
+### ⚡ Building
+
+**Syndycore** · **Krafto** · **Epylog** — *in progress*
+
+<br/>
+
+<sub>I design and build everything a brand sees online — identity, websites, 3D web experiences and motion. One person, full stack creative, AI across every step.</sub>
+
+</div>
