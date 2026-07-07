@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Peter Renzi — I make things that move, look good & sometimes work." width="100%"/>
+<img src="./header.svg" alt="Peter Renzi — I make things that move, look good & sometimes work." width="100%"/>
 
 <br/>
 
