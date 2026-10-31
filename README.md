@@ -3,4 +3,4 @@ I design and build everything a brand is seen through from identity and websites
 
 Currently building [@Syndycore](https://github.com/syndycore).
 
-Based in Italy · building worldwide → nowa@contact.com
+Based in Italy · building worldwide → work@petrnzi.com
